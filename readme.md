@@ -60,7 +60,7 @@ This will be captured  in 3d dimension and experience and sold as NFTS
 
 ### January
 
-1. Set up Foundation app
+1. Set up Foundation app ✅
 2. Buy camera and stand
 3. Photogrammetry set up and trials
 4. Research into NFTS (price and process)
